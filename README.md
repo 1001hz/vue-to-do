@@ -1,6 +1,6 @@
 # vue-to-do
 
-> A Vue.js project
+> A simple Vue.js ToDo app with routing and reactive state
 
 ## Build Setup
 
